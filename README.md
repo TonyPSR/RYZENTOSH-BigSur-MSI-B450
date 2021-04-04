@@ -14,9 +14,13 @@
 | Sound Card          | Realtek ALC892 Codec                                |
 | LAN                 | Realtek® 8111H Gigabit LAN controller               |
 
->OpenCore Verison: 0.6.7
+> OpenCore Verison: 0.6.5
+
+> MacOS supported: macOS 11 Big Sur
 
 # Don't forget to update MLB, SystemSerialNumber and SystemUUID under PlatformInfo key in config.plist!!!
+
+## For macOS Big Sur, use MacPro7,1
 
 ## What's working?
 - Full Hardware Acceleration
@@ -25,6 +29,11 @@
 - External Devices
   - Webcam
   - Mic
+
+## Bugs
+- Memory Modules Misconfigured notification after login screen
+  - This is a well known bug in macOS BigSur. You can ignore it. It's caused because of MacPro7,1 SMBIOS. If you're annoyed by this, follow this guide to fix the problem. 
+  - https://dortania.github.io/OpenCore-Post-Install/universal/memory.html
 
 ## What's Not Working?
 - Softwares using Intel Virtualization Technology
