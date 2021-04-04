@@ -16,7 +16,7 @@
 
 > OpenCore Verison: 0.6.5
 
-> MacOS supported: macOS 11 Big Sur
+> MacOS supported: macOS 11.x.x Big Sur
 
 # Don't forget to update MLB, SystemSerialNumber and SystemUUID under PlatformInfo key in config.plist!!!
 #### For macOS Big Sur, use MacPro7,1 SMBIOS.
