@@ -18,8 +18,6 @@
 
 > MacOS supported: macOS 11 Big Sur
 
-## macOS 10.15.x Catalina build: https://github.com/TonyPSR/RYZENTOSH-Catalina-MSI-B450
-
 # Don't forget to update MLB, SystemSerialNumber and SystemUUID under PlatformInfo key in config.plist!!!
 #### For macOS Big Sur, use MacPro7,1 SMBIOS.
 
@@ -54,3 +52,6 @@
 4. MountEFI: https://github.com/corpnewt/MountEFI
 5. SSDTTime: https://github.com/corpnewt/SSDTTime
 6. AMD Power Gadget(optional): https://github.com/trulyspinach/SMCAMDProcessor/releases
+
+## macOS 10.15.x Catalina build: https://github.com/TonyPSR/RYZENTOSH-Catalina-MSI-B450
+
