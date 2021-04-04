@@ -54,5 +54,3 @@
 6. AMD Power Gadget(optional): https://github.com/trulyspinach/SMCAMDProcessor/releases
 
 ## macOS 10.15.x Catalina build: https://github.com/TonyPSR/RYZENTOSH-Catalina-MSI-B450
-
-
