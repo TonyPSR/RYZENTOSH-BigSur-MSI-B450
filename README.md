@@ -19,8 +19,7 @@
 > MacOS supported: macOS 11 Big Sur
 
 # Don't forget to update MLB, SystemSerialNumber and SystemUUID under PlatformInfo key in config.plist!!!
-
-## For macOS Big Sur, use MacPro7,1
+#### For macOS Big Sur, use MacPro7,1 SMBIOS
 
 ## What's working?
 - Full Hardware Acceleration
