@@ -4,7 +4,7 @@
 
 | Component           | Detail                                              |
 | ------------------- | --------------------------------------------------- |
-| Processor           | Ryzen 7 2700 8C/16T (non-X)                         |
+| Processor           | AMD Ryzen 7 2700 8C/16T (non-X)                     |
 | Motherboard         | MSI B450 TOMAHAWK MAX                               |
 | Memory              | 16GB(8x2) Crucial Ballistix DDR4 3000 MHz           |
 | SSD                 | Crucial BX500 120GB                                 |
