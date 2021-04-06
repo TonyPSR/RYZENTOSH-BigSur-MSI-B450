@@ -22,6 +22,7 @@
 #### For macOS Big Sur, use MacPro7,1 SMBIOS.
 
 ## What's working?
+- Almost everything
 - Full Hardware Acceleration
 - Audio (Speaker + Headphone)
 - Ethernet
