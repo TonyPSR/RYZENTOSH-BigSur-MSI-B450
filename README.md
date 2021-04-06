@@ -14,7 +14,7 @@
 | Sound Card          | Realtek ALC892 Codec                                |
 | LAN                 | Realtek® 8111H Gigabit LAN controller               |
 
-> OpenCore Verison: 0.6.5
+> OpenCore Version: 0.6.5
 
 > MacOS supported: macOS 11.x.x Big Sur
 
@@ -35,7 +35,7 @@
   - https://dortania.github.io/OpenCore-Post-Install/universal/memory.html
 
 ## What's Not Working?
-- Softwares using Intel Virtualization Technology
+- Applications using Intel Virtualization Technology
   - Android Emulators (use physical devices or Genymotion Android Emulator)
   - Docker Engine (there are workarounds but not recommended)
 - Sleep (Fix: Disable sleep in System Preferences)
@@ -44,6 +44,7 @@
 - iServices (Facetime, iMessage...)
 - Adobe Suite
 - Wi-Fi & Bluetooth dongles
+- USB 3.1
 
 ## Important Links
 1. OpenCorePkg: https://github.com/acidanthera/OpenCorePkg
